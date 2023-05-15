@@ -12,6 +12,9 @@
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I like to bake bread**
 
+#
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="GIF/swiss.gif"/>
+<br/>
 **Languages and Tools**
 <br/>
 <br/>
