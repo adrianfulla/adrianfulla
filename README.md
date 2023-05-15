@@ -36,7 +36,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="PNG/React.png"></code>
 <code><img height="40" width="40" src="PNG/vite.png"></code>
-<code><img height="40" width="40" src="PNG/NPM.png"></code>
+<code><img height="20" src="PNG/NPM.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 <br/>
