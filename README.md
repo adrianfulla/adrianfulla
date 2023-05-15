@@ -16,7 +16,7 @@
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="GIF/swiss.gif"/>
 <br/>
 
-**&ensp;Languages and Tools**
+<H2>&ensp;Languages and Tools</H2>
 
 <br/>
 <br/>
