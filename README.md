@@ -3,7 +3,7 @@
   𝐇ola, soy Adrian!
 </h1>
 
-- 🔭 I’m currently working on **Image Rendering** 
+- 🔭 I’m currently working on **Artificial Intelligence** 
 - 🌱 I’m currently learning **Project Management**
 - 👯 I’m looking to collaborate on **Data Science**
 - 🤔 I’m looking for help with **Learning more**
